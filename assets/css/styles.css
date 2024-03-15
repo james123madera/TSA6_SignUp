@@ -1,7 +1,7 @@
 body {
     background-color: #FF69B4;
     font-family: Arial, sans-serif;
-    background-image: url('./assets/images/binipink.png');
+    background-image: url('/assets/images/binipink.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
